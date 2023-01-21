@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hi
 how are u
+=======
+>>>>>>> parent of 1236e6a (Update sd.txt)
